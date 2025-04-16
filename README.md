@@ -1,6 +1,7 @@
 # Analytics-Dashboard
 
 🌍 Population Analytics Dashboard using Power BI
+
 📌 Project Overview
 This project presents a visually rich and interactive Population Analytics Dashboard built using Microsoft Power BI. The dashboard is designed to provide insights into global and regional population trends over time, helping users understand demographic shifts, growth patterns, and key population metrics at a glance.
 
@@ -25,9 +26,6 @@ The Power BI dashboard includes the following visualizations and tools:
 
 6) 📊 KPIs: Total Population, Year-over-Year Growth, and Average Density
 
-🧹 Data Preparation & ETL
-Raw population data was cleaned using Power BI’s Power Query
-
 
 
 🛠️ Tools & Technologies
@@ -37,6 +35,5 @@ Raw population data was cleaned using Power BI’s Power Query
 4) Excel/CSV – Source dataset
 
 📈 Sample Insights
-Rapid population growth observed in certain regions between 2000–2020
-Declining population trends in specific developed countries
+Rapid population growth observed in certain regions between 2000–2020, Declining population trends in specific developed countries and
 Significant variation in population density across continents
